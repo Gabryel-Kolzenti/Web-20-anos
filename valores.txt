@@ -1,0 +1,46 @@
+AOS animacao pronta --> usada na galeria de imagens
+
+h1 -> O Futuro das Linguagens de Programação Web: O Que Esperar nos Próximos 20 Anos
+p main-> Com o rápido avanço tecnológico, há incertezas sobre o futuro de todas as profissões, incluindo a dos desenvolvedores web. Uma questão frequente é: como serão as linguagens de programação web daqui a 20 anos?
+
+PERGUNTA: daqui 20 anos como estarao as linguagens voltadas para web
+
+background degrade ->     background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 20%, rgba(6,68,160,1) 40%, rgba(4,115,191,1) 60%, rgba(0,212,255,1) 80%);
+
+Web no futuro:
+1. Integração com Inteligência Artificial e Machine Learning
+
+À medida que a inteligência artificial (IA) e o machine learning (ML) se tornam cada vez mais presentes em nossa vida cotidiana, é razoável esperar que as linguagens de programação web evoluam para facilitar a integração dessas tecnologias avançadas em aplicativos web. Frameworks e bibliotecas especializadas podem emergir para simplificar o desenvolvimento de aplicativos que se beneficiam da IA e do ML.
+
+2. Ênfase em Segurança e Privacidade
+
+Com a crescente preocupação em torno da segurança e privacidade dos dados dos usuários, as linguagens de programação web devem evoluir para incluir recursos integrados de segurança. Espera-se que ferramentas avançadas sejam desenvolvidas para prevenir ataques cibernéticos comuns e proteger a privacidade dos usuários em um mundo digital cada vez mais interconectado.
+
+3. Desenvolvimento de Baixo Código e Sem Código
+
+A tendência do desenvolvimento de baixo código e sem código está ganhando impulso, permitindo que uma gama mais ampla de usuários, com diferentes níveis de experiência em programação, desenvolvam aplicativos web. À medida que essa tendência continua a se expandir, é provável que as linguagens de programação web evoluam para oferecer suporte a plataformas de desenvolvimento de baixo código e sem código, facilitando a criação de aplicativos por usuários menos técnicos.
+
+4. Suporte para Tecnologias Emergentes
+
+Com o avanço da Internet das Coisas (IoT), realidade aumentada (AR) e outras tecnologias emergentes, as linguagens de programação web devem evoluir para oferecer suporte nativo a uma variedade de dispositivos e plataformas. Espera-se que frameworks e ferramentas especializadas surjam para simplificar o desenvolvimento de aplicativos web que aproveitam essas tecnologias inovadoras.
+
+5. Performance e Eficiência Aprimoradas
+
+A demanda por aplicativos web rápidos e eficientes continuará a crescer. Nesse sentido, espera-se que as linguagens de programação web evoluam para oferecer melhor desempenho e eficiência, por meio de otimizações de código, compilação just-in-time (JIT) mais eficaz e suporte a novas arquiteturas de hardware.
+
+Conclusão
+
+O futuro das linguagens de programação web é incerto, mas há muitas razões para ser otimista. À medida que a tecnologia continua a evoluir e novas necessidades emergem, podemos esperar que as linguagens de programação web se adaptem e evoluam para atender às demandas de um mundo digital em constante mudança. No entanto, uma coisa é certa: os desenvolvedores web de hoje e do futuro precisarão estar sempre dispostos a aprender, adaptar-se e abraçar as mudanças que estão por vir.
+
+linguagens: 
+Prever as linguagens de programação que dominarão o cenário web no futuro é desafiador, pois depende de muitos fatores, incluindo avanços tecnológicos, demandas do mercado e preferências dos desenvolvedores. No entanto, algumas linguagens e tecnologias estão ganhando destaque e podem desempenhar um papel significativo no futuro do desenvolvimento web. Aqui estão algumas delas:
+
+JavaScript (com TypeScript): JavaScript é a principal linguagem para desenvolvimento web e continuará a desempenhar um papel fundamental. TypeScript, uma superconjunto de JavaScript que adiciona tipagem estática opcional e outras funcionalidades, está ganhando popularidade devido à sua capacidade de ajudar os desenvolvedores a escrever código mais seguro e escalável.
+
+Python: Python tem uma grande base de usuários e é amplamente utilizado em muitas áreas, incluindo desenvolvimento web. Frameworks como Django e Flask são populares para o desenvolvimento de aplicativos web em Python.
+
+Java: Embora tenha sido principalmente associada ao desenvolvimento corporativo, Java ainda é amplamente utilizado em desenvolvimento web, especialmente em aplicativos de grande escala. Frameworks como Spring continuam a ser populares.
+
+Go (Golang): Go é uma linguagem de programação relativamente nova que tem ganhado popularidade rapidamente devido à sua eficiência e desempenho. É especialmente popular para desenvolvimento de servidores web e aplicativos de alta concorrência.
+
